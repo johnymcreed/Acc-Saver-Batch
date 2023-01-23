@@ -1,0 +1,7 @@
+-- format (can be changed in bat file)
+EMAIL:
+--us: 
+--ps: 
+
+// accounts will generate below
+
